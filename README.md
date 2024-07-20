@@ -1,2 +1,1 @@
-# Bright_Bytes
-This code was developed during a Web-a-thon , secured first place by our Bright_bytes team for creating an interactive portfolio website.
+Hello! This is Bright Bytes Personal Portfolio.I hope this is a user-friendly application with interactive navigation bar.It even has a feature of  background changes whenever page is refreshed.
